@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "adwords-script-toolkit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haydenbbickerton/AdWords-Script-Toolkit.git"
+  },
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.0",
+    "lodash": "^4.2.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "author": "Hayden Bickerton",
+  "license": "MIT"
+}
